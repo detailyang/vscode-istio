@@ -1,7 +1,9 @@
 {
     "name": "vscode-istio",
+    "repository": "https://github.com/detailyang/vscode-istio",
     "displayName": "vscode-istio",
     "description": "istio vscode plugin",
+    "publisher": "detailyang",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.29.0"
