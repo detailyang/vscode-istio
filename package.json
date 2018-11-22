@@ -4,7 +4,7 @@
     "displayName": "vscode-istio",
     "description": "istio vscode plugin",
     "publisher": "detailyang",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.29.0"
     },
